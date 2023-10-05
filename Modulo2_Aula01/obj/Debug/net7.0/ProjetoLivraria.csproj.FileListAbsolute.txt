@@ -1,0 +1,15 @@
+D:\C# FIAP\Modulo2_Aula01\bin\Debug\net7.0\ProjetoLivraria.exe
+D:\C# FIAP\Modulo2_Aula01\bin\Debug\net7.0\ProjetoLivraria.deps.json
+D:\C# FIAP\Modulo2_Aula01\bin\Debug\net7.0\ProjetoLivraria.runtimeconfig.json
+D:\C# FIAP\Modulo2_Aula01\bin\Debug\net7.0\ProjetoLivraria.dll
+D:\C# FIAP\Modulo2_Aula01\bin\Debug\net7.0\ProjetoLivraria.pdb
+D:\C# FIAP\Modulo2_Aula01\obj\Debug\net7.0\ProjetoLivraria.csproj.AssemblyReference.cache
+D:\C# FIAP\Modulo2_Aula01\obj\Debug\net7.0\ProjetoLivraria.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# FIAP\Modulo2_Aula01\obj\Debug\net7.0\ProjetoLivraria.AssemblyInfoInputs.cache
+D:\C# FIAP\Modulo2_Aula01\obj\Debug\net7.0\ProjetoLivraria.AssemblyInfo.cs
+D:\C# FIAP\Modulo2_Aula01\obj\Debug\net7.0\ProjetoLivraria.csproj.CoreCompileInputs.cache
+D:\C# FIAP\Modulo2_Aula01\obj\Debug\net7.0\ProjetoLivraria.dll
+D:\C# FIAP\Modulo2_Aula01\obj\Debug\net7.0\refint\ProjetoLivraria.dll
+D:\C# FIAP\Modulo2_Aula01\obj\Debug\net7.0\ProjetoLivraria.pdb
+D:\C# FIAP\Modulo2_Aula01\obj\Debug\net7.0\ProjetoLivraria.genruntimeconfig.cache
+D:\C# FIAP\Modulo2_Aula01\obj\Debug\net7.0\ref\ProjetoLivraria.dll

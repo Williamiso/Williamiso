@@ -1,0 +1,15 @@
+D:\C# FIAP\BancoAtividade\bin\Debug\net7.0\BancoAtividade.exe
+D:\C# FIAP\BancoAtividade\bin\Debug\net7.0\BancoAtividade.deps.json
+D:\C# FIAP\BancoAtividade\bin\Debug\net7.0\BancoAtividade.runtimeconfig.json
+D:\C# FIAP\BancoAtividade\bin\Debug\net7.0\BancoAtividade.dll
+D:\C# FIAP\BancoAtividade\bin\Debug\net7.0\BancoAtividade.pdb
+D:\C# FIAP\BancoAtividade\obj\Debug\net7.0\BancoAtividade.csproj.AssemblyReference.cache
+D:\C# FIAP\BancoAtividade\obj\Debug\net7.0\BancoAtividade.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# FIAP\BancoAtividade\obj\Debug\net7.0\BancoAtividade.AssemblyInfoInputs.cache
+D:\C# FIAP\BancoAtividade\obj\Debug\net7.0\BancoAtividade.AssemblyInfo.cs
+D:\C# FIAP\BancoAtividade\obj\Debug\net7.0\BancoAtividade.csproj.CoreCompileInputs.cache
+D:\C# FIAP\BancoAtividade\obj\Debug\net7.0\BancoAtividade.dll
+D:\C# FIAP\BancoAtividade\obj\Debug\net7.0\refint\BancoAtividade.dll
+D:\C# FIAP\BancoAtividade\obj\Debug\net7.0\BancoAtividade.pdb
+D:\C# FIAP\BancoAtividade\obj\Debug\net7.0\BancoAtividade.genruntimeconfig.cache
+D:\C# FIAP\BancoAtividade\obj\Debug\net7.0\ref\BancoAtividade.dll

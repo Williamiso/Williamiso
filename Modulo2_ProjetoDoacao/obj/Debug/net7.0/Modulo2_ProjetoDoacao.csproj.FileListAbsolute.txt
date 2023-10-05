@@ -1,0 +1,15 @@
+D:\C# FIAP\Modulo2_ProjetoDoacao\obj\Debug\net7.0\Modulo2_ProjetoDoacao.csproj.AssemblyReference.cache
+D:\C# FIAP\Modulo2_ProjetoDoacao\obj\Debug\net7.0\Modulo2_ProjetoDoacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# FIAP\Modulo2_ProjetoDoacao\obj\Debug\net7.0\Modulo2_ProjetoDoacao.AssemblyInfoInputs.cache
+D:\C# FIAP\Modulo2_ProjetoDoacao\obj\Debug\net7.0\Modulo2_ProjetoDoacao.AssemblyInfo.cs
+D:\C# FIAP\Modulo2_ProjetoDoacao\obj\Debug\net7.0\Modulo2_ProjetoDoacao.csproj.CoreCompileInputs.cache
+D:\C# FIAP\Modulo2_ProjetoDoacao\bin\Debug\net7.0\Modulo2_ProjetoDoacao.exe
+D:\C# FIAP\Modulo2_ProjetoDoacao\bin\Debug\net7.0\Modulo2_ProjetoDoacao.deps.json
+D:\C# FIAP\Modulo2_ProjetoDoacao\bin\Debug\net7.0\Modulo2_ProjetoDoacao.runtimeconfig.json
+D:\C# FIAP\Modulo2_ProjetoDoacao\bin\Debug\net7.0\Modulo2_ProjetoDoacao.dll
+D:\C# FIAP\Modulo2_ProjetoDoacao\bin\Debug\net7.0\Modulo2_ProjetoDoacao.pdb
+D:\C# FIAP\Modulo2_ProjetoDoacao\obj\Debug\net7.0\Modulo2_ProjetoDoacao.dll
+D:\C# FIAP\Modulo2_ProjetoDoacao\obj\Debug\net7.0\refint\Modulo2_ProjetoDoacao.dll
+D:\C# FIAP\Modulo2_ProjetoDoacao\obj\Debug\net7.0\Modulo2_ProjetoDoacao.pdb
+D:\C# FIAP\Modulo2_ProjetoDoacao\obj\Debug\net7.0\Modulo2_ProjetoDoacao.genruntimeconfig.cache
+D:\C# FIAP\Modulo2_ProjetoDoacao\obj\Debug\net7.0\ref\Modulo2_ProjetoDoacao.dll

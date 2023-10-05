@@ -1,0 +1,15 @@
+D:\C# FIAP\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.exe
+D:\C# FIAP\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.deps.json
+D:\C# FIAP\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.runtimeconfig.json
+D:\C# FIAP\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.dll
+D:\C# FIAP\PrimeiroProjeto\bin\Debug\net7.0\PrimeiroProjeto.pdb
+D:\C# FIAP\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.csproj.AssemblyReference.cache
+D:\C# FIAP\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# FIAP\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+D:\C# FIAP\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.AssemblyInfo.cs
+D:\C# FIAP\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+D:\C# FIAP\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.dll
+D:\C# FIAP\PrimeiroProjeto\obj\Debug\net7.0\refint\PrimeiroProjeto.dll
+D:\C# FIAP\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.pdb
+D:\C# FIAP\PrimeiroProjeto\obj\Debug\net7.0\PrimeiroProjeto.genruntimeconfig.cache
+D:\C# FIAP\PrimeiroProjeto\obj\Debug\net7.0\ref\PrimeiroProjeto.dll

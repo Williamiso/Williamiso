@@ -1,0 +1,15 @@
+D:\C# FIAP\BancoAtividadeImplementação\bin\Debug\net7.0\BancoAtividadeInterface.exe
+D:\C# FIAP\BancoAtividadeImplementação\bin\Debug\net7.0\BancoAtividadeInterface.deps.json
+D:\C# FIAP\BancoAtividadeImplementação\bin\Debug\net7.0\BancoAtividadeInterface.runtimeconfig.json
+D:\C# FIAP\BancoAtividadeImplementação\bin\Debug\net7.0\BancoAtividadeInterface.dll
+D:\C# FIAP\BancoAtividadeImplementação\bin\Debug\net7.0\BancoAtividadeInterface.pdb
+D:\C# FIAP\BancoAtividadeImplementação\obj\Debug\net7.0\BancoAtividadeInterface.csproj.AssemblyReference.cache
+D:\C# FIAP\BancoAtividadeImplementação\obj\Debug\net7.0\BancoAtividadeInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# FIAP\BancoAtividadeImplementação\obj\Debug\net7.0\BancoAtividadeInterface.AssemblyInfoInputs.cache
+D:\C# FIAP\BancoAtividadeImplementação\obj\Debug\net7.0\BancoAtividadeInterface.AssemblyInfo.cs
+D:\C# FIAP\BancoAtividadeImplementação\obj\Debug\net7.0\BancoAtividadeInterface.csproj.CoreCompileInputs.cache
+D:\C# FIAP\BancoAtividadeImplementação\obj\Debug\net7.0\BancoAtividadeInterface.dll
+D:\C# FIAP\BancoAtividadeImplementação\obj\Debug\net7.0\refint\BancoAtividadeInterface.dll
+D:\C# FIAP\BancoAtividadeImplementação\obj\Debug\net7.0\BancoAtividadeInterface.pdb
+D:\C# FIAP\BancoAtividadeImplementação\obj\Debug\net7.0\BancoAtividadeInterface.genruntimeconfig.cache
+D:\C# FIAP\BancoAtividadeImplementação\obj\Debug\net7.0\ref\BancoAtividadeInterface.dll

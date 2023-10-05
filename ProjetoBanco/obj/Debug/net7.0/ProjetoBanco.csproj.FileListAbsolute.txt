@@ -1,0 +1,15 @@
+D:\C# FIAP\ProjetoBanco\bin\Debug\net7.0\ProjetoBanco.exe
+D:\C# FIAP\ProjetoBanco\bin\Debug\net7.0\ProjetoBanco.deps.json
+D:\C# FIAP\ProjetoBanco\bin\Debug\net7.0\ProjetoBanco.runtimeconfig.json
+D:\C# FIAP\ProjetoBanco\bin\Debug\net7.0\ProjetoBanco.dll
+D:\C# FIAP\ProjetoBanco\bin\Debug\net7.0\ProjetoBanco.pdb
+D:\C# FIAP\ProjetoBanco\obj\Debug\net7.0\ProjetoBanco.csproj.AssemblyReference.cache
+D:\C# FIAP\ProjetoBanco\obj\Debug\net7.0\ProjetoBanco.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# FIAP\ProjetoBanco\obj\Debug\net7.0\ProjetoBanco.AssemblyInfoInputs.cache
+D:\C# FIAP\ProjetoBanco\obj\Debug\net7.0\ProjetoBanco.AssemblyInfo.cs
+D:\C# FIAP\ProjetoBanco\obj\Debug\net7.0\ProjetoBanco.csproj.CoreCompileInputs.cache
+D:\C# FIAP\ProjetoBanco\obj\Debug\net7.0\ProjetoBanco.dll
+D:\C# FIAP\ProjetoBanco\obj\Debug\net7.0\refint\ProjetoBanco.dll
+D:\C# FIAP\ProjetoBanco\obj\Debug\net7.0\ProjetoBanco.pdb
+D:\C# FIAP\ProjetoBanco\obj\Debug\net7.0\ProjetoBanco.genruntimeconfig.cache
+D:\C# FIAP\ProjetoBanco\obj\Debug\net7.0\ref\ProjetoBanco.dll

@@ -1,0 +1,15 @@
+D:\C# FIAP\Aula02\bin\Debug\net7.0\Aula02.exe
+D:\C# FIAP\Aula02\bin\Debug\net7.0\Aula02.deps.json
+D:\C# FIAP\Aula02\bin\Debug\net7.0\Aula02.runtimeconfig.json
+D:\C# FIAP\Aula02\bin\Debug\net7.0\Aula02.dll
+D:\C# FIAP\Aula02\bin\Debug\net7.0\Aula02.pdb
+D:\C# FIAP\Aula02\obj\Debug\net7.0\Aula02.csproj.AssemblyReference.cache
+D:\C# FIAP\Aula02\obj\Debug\net7.0\Aula02.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# FIAP\Aula02\obj\Debug\net7.0\Aula02.AssemblyInfoInputs.cache
+D:\C# FIAP\Aula02\obj\Debug\net7.0\Aula02.AssemblyInfo.cs
+D:\C# FIAP\Aula02\obj\Debug\net7.0\Aula02.csproj.CoreCompileInputs.cache
+D:\C# FIAP\Aula02\obj\Debug\net7.0\Aula02.dll
+D:\C# FIAP\Aula02\obj\Debug\net7.0\refint\Aula02.dll
+D:\C# FIAP\Aula02\obj\Debug\net7.0\Aula02.pdb
+D:\C# FIAP\Aula02\obj\Debug\net7.0\Aula02.genruntimeconfig.cache
+D:\C# FIAP\Aula02\obj\Debug\net7.0\ref\Aula02.dll
