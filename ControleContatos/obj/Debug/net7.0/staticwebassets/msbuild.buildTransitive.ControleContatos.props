@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="../buildMultiTargeting/ControleContatos.props" />
+  <Import Project="..\buildMultiTargeting\ControleContatos.props" />
 </Project>
